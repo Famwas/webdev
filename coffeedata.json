@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Espresso",
+      "price": "$3.50",
+      "image": "https://media.istockphoto.com/id/505168330/photo/cup-of-cafe-latte-with-coffee-beans-and-cinnamon-sticks.jpg?s=1024x1024&w=is&k=20&c=kXeItl86M_hlo05MA5S2fyiMvBIfZanPwzBccgMG8GI=",
+      "rate": 4.8,
+      "votes": 124,
+      "isPopular": true
+    },
+    {
+      "id": 2,
+      "name": "Cappuccino",
+      "price": "$4.00",
+      "image": "https://media.istockphoto.com/id/1552871673/photo/black-coffee-in-a-white-glass-placed-on-an-old-cement-table-with-coffee-beans.jpg?s=612x612&w=is&k=20&c=dhHZQSTvu7bqqdA1wnrNq1axRvK-s3znr8w78ucpX3Q=",
+      "rate": 4.5,
+      "votes": 98,
+      "isPopular": false
+    },
+    {
+      "id": 3,
+      "name": "Latte",
+      "price": "$4.50",
+      "image": "https://media.istockphoto.com/id/1358132613/photo/refreshing-hot-cup-of-coffee-at-a-cafe.jpg?s=612x612&w=is&k=20&c=pQZVkd6lL2ipSp9Yc9TkZwSz93BaPKf-qj96L5tIchI=",
+      "rate": 4.7,
+      "votes": 132,
+      "isPopular": false
+    },
+    {
+      "id": 4,
+      "name": "Americano",
+      "price": "$3.00",
+      "image": "https://media.istockphoto.com/id/1304797091/photo/latte-macchiato-coffee-cup-on-wooden-table-with-roasted-coffee-beans.jpg?s=1024x1024&w=is&k=20&c=J_6eh7klizIX6Yn675bli2dR3kzA0PZl_GUGDi_4vmk=",
+      "rate": 4.3,
+      "votes": 87,
+      "isPopular": true
+    },
+    {
+      "id": 5,
+      "name": "Mocha",
+      "price": "$4.75",
+      "image": "https://media.istockphoto.com/id/1175893863/photo/cup-of-green-tea-matcha-latte.jpg?s=2048x2048&w=is&k=20&c=EPBIrIZLieGBqn-lx-7EO6PKAiRWI7gWR1o6GCyGLZY=",
+      "rate": 4.9,
+      "votes": 143,
+      "isPopular": true
+    },
+    {
+      "id": 6,
+      "name": "Flat White",
+      "price": "$4.25",
+      "image": "https://media.istockphoto.com/id/507278086/photo/cup-coffee-beans-chocolate-wooden-board-closeup-top-view-background.jpg?s=1024x1024&w=is&k=20&c=xO2ySnBlspe0L653Hlrs75gXY6KTABu012qa_EmJ-cY=",
+      "rate": 4.4,
+      "votes": 110,
+      "isPopular": false
+    },
+    {
+      "id": 7,
+      "name": "Macchiato",
+      "price": "$4.20",
+      "image": "https://media.istockphoto.com/id/1030018926/photo/coffee-americano-it-made-from-espresso-and-hot-water-uk.jpg?s=1024x1024&w=is&k=20&c=rbt7G4zHhFMRudwDZRyUdK5fZhiWlmbv0v9f5MOYL1s=",
+      "rate": 4.6,
+      "votes": 128,
+      "isPopular": false
+    },
+    {
+      "id": 8,
+      "name": "Cold Brew",
+      "price": "$3.80",
+      "image": "https://media.istockphoto.com/id/507278086/photo/cup-coffee-beans-chocolate-wooden-board-closeup-top-view-background.jpg?s=1024x1024&w=is&k=20&c=xO2ySnBlspe0L653Hlrs75gXY6KTABu012qa_EmJ-cY=",
+      "rate": 4.2,
+      "votes": 76,
+      "isPopular": false
+    }
+  ]
+  
